@@ -1,4 +1,4 @@
-from predict import dist,Predict
+from predict import Predict
 import streamlit as st
 from PIL import Image
 
